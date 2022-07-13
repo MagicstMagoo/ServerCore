@@ -1,0 +1,2 @@
+# ServerCore
+Minecraft Server Core
